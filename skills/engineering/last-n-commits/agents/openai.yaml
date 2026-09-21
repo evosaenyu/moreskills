@@ -1,0 +1,5 @@
+interface:
+  display_name: "Last N Commits"
+  short_description: "Load the diffs of the last n commits into context"
+policy:
+  allow_implicit_invocation: false
