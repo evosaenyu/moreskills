@@ -1,0 +1,3 @@
+interface:
+  display_name: "LLM Eval"
+  short_description: "Eval a harness against its base model"
